@@ -2,13 +2,13 @@
 
 Recently when I came back to play Stellaris, I noticed that there is ALWAYS a single battleship charging forward like a fool, leaving others behind. If there's a titan, then it is its turn to charge. See the following pic.
 
-IMAGE HERE bug图
+[Before pic](https://imgur.com/VPYKKKs)
 
 I RECOGNIZED this bug. It can be traced back to version 1.3, which was released in **Oct 2016**. YES, **FOR MORE THAN FIVE BLOODY YEARS**, Paradox hasn't fix it yet.
 
 This bug is related to the Artillery ship behavior, and actually quite easy to fix. Here's the patched result, now all ships with artillery ai will stay at range.
 
-修复图
+[After pic](https://imgur.com/XdvVNq4)
 
 ## New Ship Behaviors
 
