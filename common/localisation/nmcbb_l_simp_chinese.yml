@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+
+XL_RANGE_BEHAVIOR_DESC:1 "§H超远程打击战术：§!舰船将停留在距离敌人较远的位置（§Y260§!）上并使用其远程武器来攻击目标。"
+SNIPE_L_BEHAVIOR_DESC:1 "§H狙击战术：§!舰船将停留在距离敌人较远的位置（§Y160§!）上并使用其远程武器来攻击目标。"
+
+COMBAT_COMPUTER_SNIPE_L_SAPIENT:0 "知性战斗电脑（狙击）"
+COMBAT_COMPUTER_SNIPE_L_AUTONOMOUS:0 "自律舰船智能（狙击）"
+COMBAT_COMPUTER_SNIPE_L_PRECOG:0 "预知接口（狙击）"
+
+COMBAT_COMPUTER_XL_RANGE_SAPIENT:0 "知性战斗电脑（超远程打击）"
+COMBAT_COMPUTER_XL_RANGE_AUTONOMOUS:0 "自律舰船智能（超远程打击）"
+COMBAT_COMPUTER_XL_RANGE_PRECOG:0 "预知接口（超远程打击）"

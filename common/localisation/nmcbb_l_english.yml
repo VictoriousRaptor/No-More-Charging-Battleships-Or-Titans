@@ -1,0 +1,12 @@
+﻿l_english:
+
+XL_RANGE_BEHAVIOR_DESC:1 "Extra-long Range Strike Tactics:§! The ship will stay at long (§Y260§!) range and fire its long range weapons on the target."
+SNIPE_L_BEHAVIOR_DESC:1 "§HSniping Tactics:§! The ship will stay at long (§Y180§!) range and fire its long range weapons on the target."
+
+COMBAT_COMPUTER_SNIPE_L_SAPIENT:0 "Sapient Combat Computer (Sniping)"
+COMBAT_COMPUTER_SNIPE_L_AUTONOMOUS:0 "Autonomous Ship Intellect (Sniping)"
+COMBAT_COMPUTER_SNIPE_L_PRECOG:0 "Precognitive Interface (Sniping)"
+
+COMBAT_COMPUTER_XL_RANGE_SAPIENT:0 "Sapient Combat Computer (Extra-long Range)"
+COMBAT_COMPUTER_XL_RANGE_AUTONOMOUS:0 "Autonomous Ship Intellect (Extra-long Range)"
+COMBAT_COMPUTER_XL_RANGE_PRECOG:0 "Precognitive Interface (Extra-long Range)"
