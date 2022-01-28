@@ -13,5 +13,4 @@ ship_behavior = {
 	passive_move_pattern = none  # fix here
 
 	desc = "ARTILLERY_BEHAVIOR_DESC"
-	
 }

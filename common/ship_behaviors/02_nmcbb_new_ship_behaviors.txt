@@ -15,6 +15,23 @@ ship_behavior = {
 	desc = "SNIPE_L_BEHAVIOR_DESC"
 }
 
+ship_behavior = {
+	name = "snipe_titan"
+	preferred_attack_range = max
+	formation_distance = max
+	return_to_formation_distance = 265
+
+	combat_target_anchor = root
+
+	collision_awareness = 0.2
+	collision_radius = 1.0							#collision_radius is a multiplier on the radius specified in the ship size
+	collision_strafe = 2.5							#collision_strafe allows the ship to move in any direction while colliding with another
+	attack_move_pattern = stay_at_range
+	passive_move_pattern = none
+
+	desc = "SNIPE_TITAN_BEHAVIOR_DESC"
+}
+
 # ship_behavior = {
 # 	name = "xl_range"
 # 	preferred_attack_range = 260
