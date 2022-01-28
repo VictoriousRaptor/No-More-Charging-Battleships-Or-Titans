@@ -31,3 +31,10 @@
 ### GitHub
 
 [GitHub Repo](https://github.com/VictoriousRaptor/No-More-Charging-Battleships-Or-Titans)
+
+### 鸣谢
+
+Stellaris吧的
+- @xhxc1111
+- @ab981223789
+- @QQQ_111_888
