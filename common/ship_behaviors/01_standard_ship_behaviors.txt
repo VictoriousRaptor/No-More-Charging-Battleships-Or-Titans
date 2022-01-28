@@ -1,8 +1,8 @@
 ship_behavior = {
 	name = "artillery"
-	preferred_attack_range = 80
-	formation_distance = 80
-	return_to_formation_distance = 90
+	preferred_attack_range = max   # For Sky Dragon and sth else
+	formation_distance = max
+	return_to_formation_distance = 160
 
 	combat_target_anchor = root
 
