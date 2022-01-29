@@ -124,7 +124,7 @@ utility_component_template = {
 		}
 	}
 	class_restriction = { shipclass_military shipclass_starbase }
-	size_restriction = { juggernaut }
+	size_restriction = { juggernaut star_eater }
 	component_set = "combat_computers"
 	ship_behavior = "snipe_l"
 	prerequisites = { "tech_combat_computers_3" }
@@ -167,7 +167,7 @@ utility_component_template = {
 		}
 	}
 	class_restriction = { shipclass_military shipclass_starbase  }
-	size_restriction = { juggernaut }
+	size_restriction = { juggernaut star_eater }
 	component_set = "combat_computers"
 	ship_behavior = "snipe_l"
 	prerequisites = { "tech_combat_computers_autonomous" }
@@ -198,7 +198,7 @@ utility_component_template = {
 		}
 	}
 	class_restriction = { shipclass_military shipclass_starbase }
-	size_restriction = { juggernaut }
+	size_restriction = { juggernaut star_eater }
 	component_set = "combat_computers"
 	ship_behavior = "snipe_l"
 	prerequisites = { "tech_precognition_interface" }
