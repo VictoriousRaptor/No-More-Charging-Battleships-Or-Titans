@@ -1,0 +1,45 @@
+[h1]初衷[/h1]
+
+最近我回坑的时候，发现了一个bug，其表现为总有一条战列舰带头冲锋，如果舰队里有泰坦，那么泰坦就带头冲锋。
+
+[img]https://steamuserimages-a.akamaihd.net/ugc/1833529903248924121/2B890CA9EBE4A40AC5C19F96693795DA512A6F80/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]
+
+这个bug，它最早在[b]2016年10月[/b]发布的1.3版本里面出现. 没错，[b]五年多了[/b]，尽管舰船ai的代码被大改过，瑞典蠢驴还没有修好它。
+
+这个bug和舰船的“炮击行为”ai有关。实际上修复它用的代码只有一行。修复之后，所有的船都乖乖呆在远处。
+
+[img]https://steamuserimages-a.akamaihd.net/ugc/1833529903248928964/CD7AF7F3C2E2A7C50C5D8D74CF1731AE8F029FA8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]
+
+[h1]新的舰船AI[/h1]
+
+为了发挥X槽和T槽武器的射程优势，我写了一个新的舰船AI，称作“狙击AI”。狙击作战电脑可以装在战列舰、泰坦、主宰和焚天神兵上，效果是让它们停在其武器的最大射程上射击。
+
+[img]https://i.imgur.com/fVVaDCS.gif[/img]
+
+[h1]兼容性[/h1]
+
+本mod覆盖了原版的炮击ai.
+
+开启本mod后无法获得成就。
+
+[h1]其他[/h1]
+
+[h2]我的其他mod[/h2]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2736965712]Gray Warship With Jump Drive 给灰风装上跃迁引擎[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2245491122]Locate It!（战略资源与巨构定位器）[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2247594997]Societal Advancement (fixed)[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2254396324]Demilitarize (fixed)[/url]
+
+[h2]GitHub[/h2]
+
+[url=https://github.com/VictoriousRaptor/No-More-Charging-Battleships-Or-Titans]No More Charging Battleships Or Titans[/url]
+ 
+[h2]鸣谢[/h2]
+
+Stellaris吧的
+[list]
+[*]@xhxc1111
+[*]@ab981223789
+[*]@QQQ_111_888
+[/list]
