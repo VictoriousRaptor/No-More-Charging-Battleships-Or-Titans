@@ -10,9 +10,9 @@ This bug is related to the Artillery ship behavior, and actually quite easy to f
 
 [img]https://steamuserimages-a.akamaihd.net/ugc/1833529903248928964/CD7AF7F3C2E2A7C50C5D8D74CF1731AE8F029FA8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false[/img]
 
-[h1]New Ship Behaviors[/h1]
+[h1]New Ship Behavior[/h1]
 
-To maximize X-slot and T-slot weapons's long range firepower, I create a new ship computers called 'Sniping'. Sniping computer is available for battleship, titan, juggernaut, and star eater. They will stay at their maximum weapon range when equipping Sniping computer.
+To maximize X-slot and T-slot weapons's long range firepower, I create a new ship computers called 'Sniping'. Sniping computer is available for battleship, titan, juggernaut, and star eater. They will stay at their maximum weapon range when equipping Sniping computer. The computer provides a little damamage buff, moderate range buff and a litte accuracy/tracking buff.
 
 [img]https://i.imgur.com/fVVaDCS.gif[/img]
 
