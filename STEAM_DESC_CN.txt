@@ -12,7 +12,7 @@
 
 [h1]新的舰船AI[/h1]
 
-为了发挥X槽和T槽武器的射程优势，我写了一个新的舰船AI，称作“狙击AI”。狙击作战电脑可以装在战列舰、泰坦、主宰和焚天神兵上，效果是让它们停在其武器的最大射程上射击。
+为了发挥X槽和T槽武器的射程优势，我写了一个新的舰船AI，称作“狙击AI”。狙击作战电脑可以装在战列舰、泰坦、主宰和焚天神兵上，具体效果是让它们停在其武器的最大射程上射击，并提供少量伤害加成、较多射程加成以及少量追踪和命中加成。
 
 [img]https://i.imgur.com/fVVaDCS.gif[/img]
 
@@ -34,6 +34,10 @@
 [h2]GitHub[/h2]
 
 [url=https://github.com/VictoriousRaptor/No-More-Charging-Battleships-Or-Titans]No More Charging Battleships Or Titans[/url]
+
+[h2]贴吧[/h2]
+
+[url=https://tieba.baidu.com/p/7709309653?red_tag=0436291603]【MOD】解决战列、泰坦和主宰白给冲锋的问题[/url]
  
 [h2]鸣谢[/h2]
 
