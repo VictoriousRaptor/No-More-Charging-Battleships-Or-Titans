@@ -86,6 +86,7 @@ utility_component_template = {
 	class_restriction = { shipclass_military shipclass_starbase }
 	size_restriction = { titan }
 	component_set = "combat_computers"
+	ship_behavior = "snipe_titan"
 	prerequisites = { "tech_combat_computers_3" }
 
 	modifier = {
