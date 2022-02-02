@@ -18,7 +18,7 @@ To maximize X-slot and T-slot weapons's long range firepower, I create a new shi
 
 [h1]Compatibility[/h1]
 
-This mode overwrites vanilla file [i]01_standard_ship_behaviors.txt[/i] .
+This mode overwrites vanilla artillery ship behavior.
 
 Not achievement compatible.
 
