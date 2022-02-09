@@ -85,7 +85,7 @@ utility_component_template = {
 			alloys = @cost3
 		}
 	}
-	class_restriction = { shipclass_military shipclass_starbase }
+	class_restriction = { shipclass_military shipclass_starbase shipclass_military_special }
 	size_restriction = { juggernaut star_eater }
 	component_set = "combat_computers"
 	ship_behavior = "snipe_l"
@@ -129,7 +129,7 @@ utility_component_template = {
 			alloys = @cost3
 		}
 	}
-	class_restriction = { shipclass_military shipclass_starbase  }
+	class_restriction = { shipclass_military shipclass_starbase shipclass_military_special }
 	size_restriction = { juggernaut star_eater }
 	component_set = "combat_computers"
 	ship_behavior = "snipe_l"
@@ -162,7 +162,7 @@ utility_component_template = {
 			alloys = @cost3
 		}
 	}
-	class_restriction = { shipclass_military shipclass_starbase }
+	class_restriction = { shipclass_military shipclass_starbase shipclass_military_special }
 	size_restriction = { juggernaut star_eater }
 	component_set = "combat_computers"
 	ship_behavior = "snipe_l"

@@ -18,7 +18,7 @@ To maximize X-slot and T-slot weapons's long range firepower, I create a new shi
 
 [h1]Compatibility[/h1]
 
-This mode overwrites vanilla file [i]01_standard_ship_behaviors.txt[/i] .
+This mode overwrites vanilla artillery ship behavior.
 
 Not achievement compatible.
 
@@ -26,10 +26,12 @@ Not achievement compatible.
 
 [h2]My other mods[/h2]
 
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2742120496]Auto & Permanent Planetary Decisions[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2736965712]Gray Warship With Jump Drive[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2245491122]Locate It![/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2247594997]Societal Advancement (fixed)[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2254396324]Demilitarize (fixed)[/url]
+
 
 [h2]GitHub[/h2]
 
