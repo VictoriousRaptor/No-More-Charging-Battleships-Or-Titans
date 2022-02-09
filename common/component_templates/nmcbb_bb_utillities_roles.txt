@@ -126,7 +126,7 @@ utility_component_template = {
 			alloys = @cost3
 		}
 	}
-	class_restriction = { shipclass_military shipclass_starbase  }
+	class_restriction = { shipclass_military shipclass_starbase }
 	size_restriction = { battleship }
 	component_set = "combat_computers"
 	ship_behavior = "snipe_l"

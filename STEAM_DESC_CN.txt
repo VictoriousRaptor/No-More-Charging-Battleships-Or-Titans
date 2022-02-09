@@ -24,8 +24,9 @@
 
 [h1]其他[/h1]
 
-[h2]我的其他mod[/h2]
+[h2]我的其他Mod[/h2]
 
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2742120496]Auto & Permanent Planetary Decisions 自动无限期大撒币[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2736965712]Gray Warship With Jump Drive 给灰风装上跃迁引擎[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2245491122]Locate It!（战略资源与巨构定位器）[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2247594997]Societal Advancement (fixed)[/url]
