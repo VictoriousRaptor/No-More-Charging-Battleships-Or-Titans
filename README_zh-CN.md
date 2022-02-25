@@ -16,7 +16,7 @@
 
 ## 兼容性
 
-本mod覆盖了原版的炮击ai.
+本mod覆盖了原版的01_standard_ship_behaviors.txt.
 
 不兼容成就。
 

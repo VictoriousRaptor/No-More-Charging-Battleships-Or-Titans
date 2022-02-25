@@ -1,16 +1,16 @@
-ship_behavior = {
-	name = "artillery"
-	preferred_attack_range = 80
-	formation_distance = 80
-	return_to_formation_distance = 90
+# ship_behavior = {
+# 	name = "artillery"
+# 	preferred_attack_range = 80
+# 	formation_distance = 80
+# 	return_to_formation_distance = 90
 
-	combat_target_anchor = root
+# 	combat_target_anchor = root
 
-	collision_awareness = 0.2
-	collision_radius = 1.0							#collision_radius is a multiplier on the radius specified in the ship size
-	collision_strafe = 2.5							#collision_strafe allows the ship to move in any direction while colliding with another
-	attack_move_pattern = stay_at_range
-	passive_move_pattern = none
+# 	collision_awareness = 0.2
+# 	collision_radius = 1.0							#collision_radius is a multiplier on the radius specified in the ship size
+# 	collision_strafe = 2.5							#collision_strafe allows the ship to move in any direction while colliding with another
+# 	attack_move_pattern = stay_at_range
+# 	passive_move_pattern = none
 
-	desc = "ARTILLERY_BEHAVIOR_DESC"
-}
+# 	desc = "ARTILLERY_BEHAVIOR_DESC"
+# }

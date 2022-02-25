@@ -1,4 +1,4 @@
-version="1.2"
+version="1.3"
 tags={
 	"Military"
 	"Fixes"
@@ -6,5 +6,5 @@ tags={
 }
 name="No More Charging Battleships Or Titans"
 picture="thumbnail.png"
-supported_version="3.2.2"
+supported_version="3.3.*"
 remote_file_id="2733387271"
