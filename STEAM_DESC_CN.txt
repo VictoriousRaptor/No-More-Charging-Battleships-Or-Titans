@@ -18,7 +18,7 @@
 
 [h1]兼容性[/h1]
 
-本mod覆盖了原版的炮击舰船行为.
+本mod覆盖了01_standard_ship_behaviors.txt。兼容3.3。
 
 开启本mod后无法获得成就。
 
